@@ -2,24 +2,24 @@ LeetCode Solutions Repository
 
 📌 Overview
 
-This repository contains my solutions to various LeetCode problems. The solutions are written in different programming languages, primarily Python, Java, and C++. Each solution includes a well-structured code implementation along with explanations and complexity analysis.
+This repository contains my solutions to various LeetCode problems. The solutions are written in different programming language C++. Each solution includes a well-structured code implementation along with explanations and complexity analysis.
 🚀 Contribution
 
-Feel free to contribute by:
+-->Feel free to contribute by:
 
-Adding new solutions.
+.Adding new solutions.
 
-Improving existing solutions.
+.Improving existing solutions.
 
-Updating README with better explanations.
+.Updating README with better explanations.
 
-Steps to Contribute:
+-->Steps to Contribute:
 
-Fork the repository.
+ .Fork the repository.
 
-Create a new branch for your changes.
+.Create a new branch for your changes.
 
-Commit your changes with a descriptive message.
+.Commit your changes with a descriptive message.
 
 Push the changes and create a pull request.
 📧 Contact
