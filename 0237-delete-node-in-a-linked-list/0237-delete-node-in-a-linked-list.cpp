@@ -12,7 +12,7 @@ public:
       ListNode*prev = NULL;
       while(node->next != NULL){
         node->val = node->next->val;
-        prev = node ;//assign prev to node
+        prev = node ;//assign prev to node (remember thing)
         node = node->next; //traverse the node to reach null
         
       }
