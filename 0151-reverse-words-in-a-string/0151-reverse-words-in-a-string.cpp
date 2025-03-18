@@ -12,7 +12,7 @@ public:
         
         int n = s.length();
         
-        while(i < n) {
+        while(i < n) { //2 loop lgenege yeh remember
             while(i < n && s[i] != ' ') { //i ko agar char dikha to r ko dega and i++ and r++
                 s[r++] = s[i++];
             }
