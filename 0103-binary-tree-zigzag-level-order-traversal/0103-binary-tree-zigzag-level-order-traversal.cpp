@@ -10,49 +10,45 @@
  * };
  */
 
-class Solution {
+        
+    class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-       vector<vector<int>> result;
-       if (root == NULL) return result;
-
-       queue<TreeNode*> q;
-       q.push(root);
-       bool leftToRight = true;
-
-       while (!q.empty()) {
-           int size = q.size();
-           vector<int> ans(size); // Fixed-size vector for storing values at this level
-
-           for (int i = 0; i < size; i++) {
-               TreeNode* front = q.front();
-               q.pop();
-
-               // Compute index based on zigzag order
-               int index = leftToRight ? i : size - i - 1;
-               ans[index] = front->val;
-
-               // Push left and right children into queue
-               if (front->left) q.push(front->left);
-               if (front->right) q.push(front->right);
-           }
-
-           // Add the current level's values to result
-           result.push_back(ans);
-           // Toggle the direction for next level
-           leftToRight = !leftToRight;
-       }
-
-       return result;
+        // Agar tree khali hai
+        if (root == NULL) return {};
+        
+        vector<vector<int>> answer;  // Final result ke liye
+        queue<TreeNode*> q;          // Level order ke liye queue
+        q.push(root);
+        bool direction = true;       // True = left to right, False = right to left
+        
+        while (!q.empty()) {
+            int levelSize = q.size();    // Current level ke nodes ki count
+            vector<int> level;           // Current level ke values store karne ke liye
+            
+            // Har node ko process karo current level mein
+            for (int i = 0; i < levelSize; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+                
+                // Yahan level mein value push kar rahe hain
+                level.push_back(node->val); // Node ki value level mein daal do
+                
+                // Children ko queue mein daal do agle level ke liye
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+            
+            // Agar direction right-to-left hai toh reverse karo
+            if (!direction) {
+                reverse(level.begin(), level.end());
+            }
+            
+            // Poora level banne ke baad answer mein daal do
+            answer.push_back(level);
+            direction = !direction;  // Direction flip karo
+        }
+        
+        return answer;
     }
 };
-
-// Utility function to print the result
-void printZigzagOrder(const vector<vector<int>>& result) {
-    for (const auto& level : result) {
-        for (int val : level) {
-            cout << val << " ";
-        }
-        cout << endl;
-    }
-}
