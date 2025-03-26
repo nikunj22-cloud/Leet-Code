@@ -19,19 +19,29 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if(root==NULL)return NULL;
-        Node* curr = root; //for traversing in level by leve 
-        while( curr->left){
-            Node* temp = curr; //for travesing in node of level
-            while( temp){
-                 temp->left->next = temp->right;
-                if( temp->next){
-                    temp->right->next = temp->next->left;
+        if (!root)  // Agar root null hai to return null
+            return NULL;
+        
+        Node* leftmost = root;  // Har level ka leftmost node
+        
+        while (leftmost->left) {  // Jab tak left child hai
+            Node* head = leftmost;
+            
+            while (head) {  // Current level traverse karo
+                // Connection 1: Ek node ke bacchon ko jodo
+                head->left->next = head->right;
+                
+                // Connection 2: Agar next node hai to uske saath jodo
+                if (head->next) {
+                    head->right->next = head->next->left;
                 }
-               temp = temp->next; 
+                
+                head = head->next;  // Agle node pe jao
             }
-           curr = curr->left;   //beacause it is a perfect binary tree
+            
+            leftmost = leftmost->left;  // Next level pe jao
         }
-       return root ;
+        
+        return root;
     }
 };
