@@ -1,43 +1,46 @@
 class MedianFinder {
 public:
-    priority_queue<int> left_max_heap; //max heap
-    priority_queue<int, vector<int>, greater<int>> right_min_heap; //min heap
+   priority_queue<int>left_max_heap;
+   priority_queue<int , vector<int> , greater<int>>right_min_heap;
     MedianFinder() {
-        
+          //khali chor
     }
     
     void addNum(int num) {
-        if(left_max_heap.empty() || num < left_max_heap.top()) {
+        //do condition check krlo 
+        //theek h number dalne ko bol rha h  dalde normal no ko check krke daldo
+        //agr aane wala no chota h left max heap k top element se to direct dal do left max heap m
+        if(left_max_heap.empty() || num < left_max_heap.top()){
             left_max_heap.push(num);
-        } else {
+        }
+        else{
             right_min_heap.push(num);
         }
-        
-        
-        //always maintain left_max_heap size one greater than rigfht_min_heap size
-        //ya fir, dono ka size equal ho
-        
-        if(abs((int)left_max_heap.size() - (int)right_min_heap.size()) > 1) {
+        //theek h number toh dal diya ab yeh dekhna h ki no ko shi jgh toh dala h mtlb left max heap or right min heap k size m diff ya toh 0  ho ya fir 1 ho 
+
+        if(abs((int)left_max_heap.size() - (int)right_min_heap.size()) > 1){
             right_min_heap.push(left_max_heap.top());
             left_max_heap.pop();
-        } else if(left_max_heap.size() < right_min_heap.size()) {
-            left_max_heap.push(right_min_heap.top());
-            right_min_heap.pop();
         }
-        
+        else if(left_max_heap.size() < right_min_heap.size()){
+                left_max_heap.push(right_min_heap.top());
+                right_min_heap.pop();
+        }
+
     }
     
     double findMedian() {
-        if(left_max_heap.size() == right_min_heap.size()) {
-            // matlab even number of elements hue honge
-            
-            return (double)(left_max_heap.top()+right_min_heap.top())/2;
+        double median;
+        if(left_max_heap.size() == right_min_heap.size()){
+           return ((double)left_max_heap.top() + right_min_heap.top())/2;
         }
-        
-        //else hamare paas odd number of elemenes hue honge
-        return left_max_heap.top();
+        else{
+            return left_max_heap.top();
+        }
+        return median;
     }
 };
+
 /**
  * Your MedianFinder object will be instantiated and called as such:
  * MedianFinder* obj = new MedianFinder();
