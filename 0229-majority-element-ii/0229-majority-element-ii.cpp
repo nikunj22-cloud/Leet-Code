@@ -1,9 +1,11 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int maj1 = 0, maj2 = 0, count1 = 0, count2 = 0;
-        
-        // Step 1: Finding potential majority candidates
+        int n = nums.size();
+        int maj1 = INT_MIN, count1 = 0;
+        int maj2 = INT_MIN, count2 = 0;
+
+        // First pass: Find potential candidates
         for (int num : nums) {
             if (num == maj1) {
                 count1++;
@@ -20,18 +22,18 @@ public:
                 count2--;
             }
         }
-        
-        // Step 2: Verifying the candidates freq
-        int f1 = 0, f2 = 0;
+
+        // Second pass: Verify counts
+        count1 = count2 = 0;
         for (int num : nums) {
-            if (num == maj1) f1++;
-            if (num == maj2) f2++;
+            if (num == maj1) count1++;
+            else if (num == maj2) count2++;
         }
-        
+
         vector<int> result;
-        if (f1 > nums.size() / 3) result.push_back(maj1);
-        if (maj1 != maj2 && f2 > nums.size() / 3) result.push_back(maj2); // Avoid duplicate
-        
+        if (count1 > n / 3) result.push_back(maj1);
+        if (count2 > n / 3) result.push_back(maj2);
+
         return result;
     }
 };
