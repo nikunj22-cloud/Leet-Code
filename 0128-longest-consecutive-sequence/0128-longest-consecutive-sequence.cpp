@@ -1,5 +1,5 @@
 class Solution {
-public:
+public: //yeh pura code yad rkhna pdega kyoki yeh time limit ka error de rha h so yad rko
     int longestConsecutive(vector<int>& nums) {
         unordered_set<int> st(nums.begin(), nums.end()); // Insert all elements into the set
         int ans = 0;
