@@ -1,26 +1,23 @@
 class Solution {
-public: //yeh pura code yad rkhna pdega kyoki yeh time limit ka error de rha h so yad rko
+public:
     int longestConsecutive(vector<int>& nums) {
-        unordered_set<int> st(nums.begin(), nums.end()); // Insert all elements into the set
-        int ans = 0;
+        if (nums.empty()) return 0; // Edge case: empty array
 
-        for (int num : st) { // Iterate through the set, not the vector
-            // Check if the current number is the start of a sequence
-            if (st.find(num - 1) == st.end()) {
-                int curr = num;
-                int count = 1;
+        sort(nums.begin(), nums.end()); // Step 1: Sort the array (O(N logN))
 
-                // Count the length of the sequence
-                while (st.find(curr + 1) != st.end()) {
-                    curr++;
-                    count++;
-                }
+        int ans = 1, count = 1;
 
-                // Update the maximum length
-                ans = max(ans, count);
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] == nums[i - 1]) continue; // Skip duplicate elements
+            
+            if (nums[i] == nums[i - 1] + 1) {
+                count++; // Increase sequence length
+            } else {
+                ans = max(ans, count); // Update max sequence length
+                count = 1; // Reset count for new sequence
             }
         }
 
-        return ans;
+        return max(ans, count); // Return max sequence length
     }
 };
