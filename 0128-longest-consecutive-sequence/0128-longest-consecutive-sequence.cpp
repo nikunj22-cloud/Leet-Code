@@ -1,23 +1,20 @@
 class Solution {
-public: //yeh pura code yad rkhna pdega kyoki yeh time limit ka error de rha h so yad rko
+public:
     int longestConsecutive(vector<int>& nums) {
-        unordered_set<int> st(nums.begin(), nums.end()); // Insert all elements into the set
+        unordered_set<int> st(nums.begin(), nums.end()); // Step 1: Insert all elements in set
         int ans = 0;
-
-        for (int num : st) { // Iterate through the set, not the vector
-            // Check if the current number is the start of a sequence
-            if (st.find(num - 1) == st.end()) { //mtlb set main yeh phle present nhi thee  toh simple num ko phle sequnce mankr aage bdho
-                int curr = num;
+        
+        for (int i = 0; i < nums.size(); i++) { // Step 2: Use normal for loop
+            if (st.find(nums[i] - 1) == st.end()) { // Check if nums[i] is the start of a sequence
+                int seq = nums[i];
                 int count = 1;
 
-                // Count the length of the sequence //map main value mil gyi h or woh variable ko aagebdha do
-                while (st.find(curr + 1) != st.end()) {
-                    curr++;
+                while (st.find(seq + 1) != st.end()) { // Continue sequence
+                    seq++;
                     count++;
                 }
 
-                // Update the maximum length
-                ans = max(ans, count);
+                ans = max(ans, count); // Update max sequence length
             }
         }
 
