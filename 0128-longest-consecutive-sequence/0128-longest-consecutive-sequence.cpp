@@ -4,20 +4,25 @@ public:
         unordered_set<int> st(nums.begin(), nums.end()); // Step 1: Insert all elements in set
         int ans = 0;
         
-        for (int i = 0; i < nums.size(); i++) { // Step 2: Use normal for loop
-            if (st.find(nums[i] - 1) == st.end()) { // Check if nums[i] is the start of a sequence
-                int seq = nums[i];
-                int count = 1;
+        for (int num : nums) { // Step 2: Use normal for loop
+            if (st.find(num) != st.end()) { // If num is still in set
+                st.erase(num); // Remove num (avoid re-processing)
 
-                while (st.find(seq + 1) != st.end()) { // Continue sequence
-                    seq++;
-                    count++;
+                int prev = num - 1, next = num + 1;
+                while (st.find(prev) != st.end()) {
+                    st.erase(prev);
+                    prev--;
+                }
+                while (st.find(next) != st.end()) {
+                    st.erase(next);
+                    next++;
                 }
 
-                ans = max(ans, count); // Update max sequence length
+                ans = max(ans, next - prev - 1); // Update max length
             }
         }
 
         return ans;
     }
 };
+
