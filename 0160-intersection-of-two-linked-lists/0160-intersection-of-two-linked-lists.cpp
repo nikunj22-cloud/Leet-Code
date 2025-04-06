@@ -5,17 +5,23 @@
  *     ListNode *next;
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
- */
+ */ //time complexity o(m+n)
+ //space 0(1)
+//  . If the two linked lists have no intersection at all, return null.
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-       ListNode *first = headA;
-       ListNode *second = headB;
+        if (!headA || !headB) return NULL;
 
-       while( first != second){
-        first = (first==NULL)? headA : first->next;
-        second = (second==NULL)? headB : second->next;//yeh yad rkhle bhai agr nhi smz aara toh ki null hote hi reset ki condition lgegi
-       }
-       return first;
-    } 
+        ListNode* ptrA = headA;
+        ListNode* ptrB = headB;
+
+        while (ptrA != ptrB) {
+           ptrA = (ptrA == NULL) ? headB : ptrA->next;
+           ptrB = (ptrB == NULL) ? headA : ptrB->next;
+
+        }
+
+        return ptrA; // can be NULL (no intersection) or the intersection node
+    }
 };
