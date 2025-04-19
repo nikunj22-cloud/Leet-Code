@@ -1,27 +1,21 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-         int n = nums.size();
-         int count = 0;
-           //step 1 find prefix sum
-           vector<int>prefixSum( n , 0);
-           prefixSum[0]  = nums[0];
-         for( int i = 1 ; i< n ; i++){
-          prefixSum[i] = prefixSum[i-1] + nums[i];
-         }
-         unordered_map<int , int>mp ; //freq or sum ko store krne k liye
+        unordered_map<int , int>mp;
+        int sum = 0;
+        int count = 0;
+         mp[0] = 1; //map m 0 sum mana shuru m or uski freq 1 krdi phle hee
+        for( int i = 0 ; i<nums.size() ; i++){
+              sum += nums[i];
+               int rem = sum-k;
+        
+        if( mp.find(rem) != mp.end()){
+                  count +=  mp[rem];
+        }
+        mp[sum]++;
+        }
 
-         for( int j = 0 ; j< n ; j++){
-            if(prefixSum[j] == k) count++;
-             int val = prefixSum[j] - k ;
-             if( mp.find(val) != mp.end()){
-                count += mp[val];
-             }
-             if( mp.find(prefixSum[j]) == mp.end()){
-                mp[prefixSum[j]] = 0;
-             }
-             mp[prefixSum[j]]++;
-         }
-         return count;
+        return count;
+    
     }
 };
