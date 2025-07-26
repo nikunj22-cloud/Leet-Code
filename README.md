@@ -27,3 +27,11 @@ Push the changes and create a pull request.
 For queries or suggestions, reach out at: nikunjvarshney22jan@gmail.com
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0006-zigzag-conversion) |
+<!---LeetCode Topics End-->
