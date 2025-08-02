@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -50,6 +51,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
@@ -62,6 +64,7 @@ Happy Coding! 🚀
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
 ## Array
 |  |
 | ------- |
@@ -88,4 +91,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
