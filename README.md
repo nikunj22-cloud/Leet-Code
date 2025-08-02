@@ -65,6 +65,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikunj22-cloud/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikunj22-cloud/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikunj22-cloud/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,4 +102,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikunj22-cloud/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
