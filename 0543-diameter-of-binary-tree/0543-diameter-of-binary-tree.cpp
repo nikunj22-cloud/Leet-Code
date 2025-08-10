@@ -10,19 +10,26 @@
  * };
  */
 class Solution {
-public:
-int diameter = 0;
-int height( TreeNode*root){
-    if(root==NULL)return 0;
-    int left = height(root->left);
-        int right = height(root->right);
-        diameter =  max( diameter , left+right); //yad rkhlo
-        return 1 + max(left , right); //yad rkhlo
-}
+public: 
+ int solve( TreeNode* root , int &result){
+      
+      if(root== NULL){
+        return 0;
+      }
+      
+    int left = solve(root->left , result );
+    int right = solve(root->right , result);
+
+    result = max( result , left+right);
+
+    return max(left , right) + 1 ;
+ }
     int diameterOfBinaryTree(TreeNode* root) {
-        height(root);
-        return diameter;
-
+          if(root== NULL){
+            return 0;
+          }
+          int result = 0;
+          solve(root  , result);
+          return result;
     }
-
 };
