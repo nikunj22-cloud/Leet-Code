@@ -39,6 +39,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
@@ -174,4 +175,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
