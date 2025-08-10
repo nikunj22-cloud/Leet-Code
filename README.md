@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
@@ -55,6 +56,7 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -63,6 +65,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
@@ -73,6 +76,7 @@ Happy Coding! 🚀
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
+| [0801-is-graph-bipartite](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
