@@ -90,6 +90,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
@@ -107,6 +108,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -181,6 +183,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 ## Tree
 |  |
