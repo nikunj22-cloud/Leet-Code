@@ -1,24 +1,24 @@
 class Solution {
 public:
-       vector<vector<int>>result;
-      void Pick( vector<int>& candidates , int target , vector<int>& ds , int i ){
-        if( i == candidates.size()){
-            if( target == 0){
-                result.push_back(ds);
-            }
-            return ;
+    void helper(int i,int target,vector<int>&nums,vector<int>&temp,vector<vector<int>>&ans){
+        if(target==0){
+            ans.push_back(temp);
+            return;
         }
-          if( candidates[i] <= target){
-        ds.push_back(candidates[i]);
-        Pick(candidates , target - candidates[i]  , ds , i);
-        ds.pop_back();
-          }
-          Pick(candidates , target , ds , i+1 );
-      }
+        if(i==nums.size())return;
+        if(target<nums[i])return;
+        temp.push_back(nums[i]);
+        helper(i,target-nums[i],nums,temp,ans);
+        temp.pop_back();
+        helper(i+1,target,nums,temp,ans);
+    }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int>ds;
-        Pick( candidates , target , ds , 0);
-        return result;
-        
+        vector<vector<int>>ans;
+        vector<int>temp;
+        sort(candidates.begin(),candidates.end());//The test cases are generated such that the number of unique isliye sort kiya h
+        helper(0,target,candidates,temp,ans);
+        return ans;
     }
 };
+
+          // jha return m vector of vector diya h wha aankh bnd krke backtracking lgegi chahe subset sum , ya subset diya ho but agr vector hota h toh wha choice h wha agr sum nikalna h toh back tracking ni chlegi
