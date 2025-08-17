@@ -207,4 +207,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
