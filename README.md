@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | ------- |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
@@ -181,6 +182,7 @@ Happy Coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -199,4 +201,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
