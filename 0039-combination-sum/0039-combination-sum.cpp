@@ -7,6 +7,7 @@ public:
         }
         if(i==nums.size())return;
         if(target<nums[i])return;
+        if(target < 0) return;
         temp.push_back(nums[i]);
         helper(i,target-nums[i],nums,temp,ans);
         temp.pop_back();
@@ -15,7 +16,7 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>ans;
         vector<int>temp;
-        sort(candidates.begin(),candidates.end());//The test cases are generated such that the number of unique isliye sort kiya h
+        sort(candidates.begin(),candidates.end());//iska matlab: agar current element nums[i] hi target se bada hai, to aage ke sare elements (jo uske baad aayenge aur sort ki wajah se aur bhi bade honge) use karke sum banana impossible hai.
         helper(0,target,candidates,temp,ans);
         return ans;
     }
