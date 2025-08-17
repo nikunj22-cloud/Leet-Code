@@ -33,6 +33,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 ## Depth-First Search
@@ -133,6 +134,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
@@ -193,4 +195,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
