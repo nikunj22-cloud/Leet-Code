@@ -1,24 +1,20 @@
 class Solution {
-public: 
-    void getsubset( vector<int>& nums , vector<vector<int>>& getans , int i , vector<int>& ans){
-        if( i == nums.size()){
-            getans.push_back( ans);
-            return ;
+public:
+    void backtrack(int ind, vector<int>& nums, vector<int>& subset,vector<vector<int>> &ans){
+        ans.push_back(subset);
+        for(int i=ind; i<nums.size(); i++){
+            if(i > ind && nums[i] == nums[i-1])continue;
+            subset.push_back(nums[i]); //subset nikalne ka yeh hee tarika h push kro operation perform kro pop back kro 
+            backtrack(i+1,nums,subset,ans);
+            subset.pop_back();
         }
-        ans.push_back( nums[i]);
-        getsubset(nums , getans , i+1 , ans);
-        ans.pop_back();
-
-        int idx = i+1;
-        while( idx < nums.size() && nums[idx] == nums[idx-1]) idx++;
-
-        getsubset( nums , getans , idx , ans);
     }
-    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-         vector<vector<int>>getans;
-         vector<int>ans;
-          getsubset( nums , getans , 0 , ans);
 
-          return getans ;
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        vector<vector<int>> ans;
+        vector<int> subset;
+        sort(nums.begin(), nums.end()); //duplicate contain krta h isliye duplicate sort hone pr sath m aajayneg condition fast exectue hogi
+        backtrack(0, nums, subset, ans);
+        return ans;
     }
 };
