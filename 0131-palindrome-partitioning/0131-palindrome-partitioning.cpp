@@ -1,52 +1,36 @@
 class Solution {
 public:
-    int n;
-    
-    bool isPalindrome(string &s, int l, int r) {
-        
-        while(l < r) {
-            if(s[l] != s[r])
+  bool palindrom( string s){
+         int i = 0;
+         int j = s.length()-1;
+         while( i< j){
+            if(s[i] != s[j]){
                 return false;
-            l++;
-            r--;
-        }
-        
-        return true;
-        
-    }
-    
-    void backtrack(string &s, int idx, vector<string> curr, vector<vector<string>> &result) {
-        
-        if(idx == n) {
-            result.push_back(curr);
-            return;
-        }
-        
-        
-        for(int i = idx; i<n; i++) {
-            
-            if(isPalindrome(s, idx, i)) {
-                
-                curr.push_back(s.substr(idx, i-idx+1));
-                
-                backtrack(s, i+1, curr, result);
-                
-                curr.pop_back();
-                
             }
-            
+            i++;
+            j--;
+         }
+         return true;
+      }
+    void getallparts( vector<vector<string>>&ans , string s , vector<string>&part){
+         if(s.size() == 0){
+            ans.push_back(part);
+            return ;
+         }
+        for( int i = 0 ; i<s.length() ; i++){
+              string parti = s.substr( 0 , i+1);
+              if(palindrom(parti)){
+                part.push_back(parti);
+                getallparts(ans , s.substr(i+1) , part);
+                part.pop_back();
+              }
         }
-        
     }
-    
     vector<vector<string>> partition(string s) {
-        n = s.length();
-        vector<vector<string>> result;
-        vector<string> curr;
-        
-        backtrack(s, 0, curr, result);
-        
-        return result;
+        vector<vector<string>>ans;
+        vector<string>part;
+         getallparts(ans , s , part);
+         return ans;
         
     }
 };
