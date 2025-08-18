@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Happy Coding! 🚀
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
@@ -185,6 +187,7 @@ Happy Coding! 🚀
 | ------- |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
