@@ -152,6 +152,7 @@ Happy Coding! 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0744-network-delay-time) |
 ## Shortest Path
 |  |
@@ -175,6 +176,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -183,6 +185,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
@@ -219,4 +222,12 @@ Happy Coding! 🚀
 | ------- |
 | [0577-employee-bonus](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1801-average-time-of-process-per-machine) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
