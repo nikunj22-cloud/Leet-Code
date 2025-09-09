@@ -15,7 +15,7 @@ public:
             }
             else{
                 swap(nums[j] , nums[i]);
-                i++;
+                i++; //because dono ko swap kiya h then dono start b ek jgh se hue h 
                 j++;
             }
          }
