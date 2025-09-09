@@ -5,7 +5,7 @@ public:
          int j = 0;
          int n = nums.size();
          int k = n-1;
-         while( j<= k){
+         while( j<= k){ //remember
             if( nums[j]==1){
                 j++;
             }
