@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0051-n-queens](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
@@ -180,6 +181,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -189,6 +191,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Backtracking
