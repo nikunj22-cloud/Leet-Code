@@ -17,7 +17,7 @@ public:
                 break;
                }
          }
-               swap( nums[swap_index] , nums[gola_index]);
+               swap( nums[gola_index] , nums[swap_index]);
               
          }
       reverse( nums.begin()+gola_index+1 , nums.end());
