@@ -91,6 +91,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0051-n-queens) |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Greedy
