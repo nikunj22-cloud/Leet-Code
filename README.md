@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
@@ -197,6 +199,7 @@ Happy Coding! 🚀
 | [0056-merge-intervals](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Backtracking
@@ -242,4 +245,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
