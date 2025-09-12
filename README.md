@@ -91,6 +91,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
@@ -147,6 +148,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
