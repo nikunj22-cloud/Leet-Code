@@ -70,6 +70,7 @@ Happy Coding! 🚀
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
@@ -152,6 +154,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
