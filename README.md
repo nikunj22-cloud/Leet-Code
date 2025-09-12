@@ -92,6 +92,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
@@ -186,6 +187,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -198,6 +200,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
