@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0056-merge-intervals) |
@@ -133,6 +134,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0070-climbing-stairs) |
@@ -192,6 +194,7 @@ Happy Coding! 🚀
 | ------- |
 | [0018-4sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
@@ -257,4 +260,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
