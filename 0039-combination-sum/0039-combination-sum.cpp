@@ -23,3 +23,5 @@ public:
 };
 
           // jha return m vector of vector diya h wha aankh bnd krke backtracking lgegi chahe subset sum , ya subset diya ho but agr vector hota h toh wha choice h wha agr sum nikalna h toh back tracking ni chlegi
+          //ek or condition jha for loop ka use nhi horha h kyoki unlimited number ko time choose krne ko bola h ni toh subset 2 , or combination sum 2  m ek bar ka choose krne ka chance h thatswhy wha for loop ka use hoga 
+          //rhi bat for loop subset1 m kyo use ni hua kyoki wha pr vector of vector ka seen nni h or ek bat wha pr direct sum manga h duplicate or target ka b koi seen ni h isliye 
