@@ -26,4 +26,4 @@ public:
          getallparts( s , partition , ans);
          return ans;
     }
-};
+}; //yt apna clg
