@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0051-n-queens) |
@@ -220,6 +221,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
