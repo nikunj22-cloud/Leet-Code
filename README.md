@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
