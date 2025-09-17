@@ -1,49 +1,46 @@
 class MyQueue {
 public:
-  stack<int>input ;
-  stack<int>output;
+    stack<int>input ;
+    stack<int>output;
+    //input stack dalne k liye
+    //output stack nikalne k liye
+    int peek1 = -1;
     MyQueue() {
         
     }
-    int peekEl = -1; 
-    //peekEl isliye rakha gaya hai:
-
-// jab tak output stack empty hai, queue ka front direct nahi milta.
-
-// uss case me peekEl store karke rakha gaya hai taaki O(1) me front element mil jaaye, bina stacks transfer kiye.
+    
     void push(int x) {
-         if(input.empty()){
-            peekEl = x;
-         }      
-         input.push(x);
+          if( input.empty()){
+              peek1 = x;
+          }
+          input.push(x);
     }
     
     int pop() {
-        if(output.empty()){
-            while(!input.empty()){
-                output.push(input.top());
+          if( output.empty()){
+            while( !input.empty()){
+                output.push( input.top());
                 input.pop();
             }
-        }
-         int val = output.top();
-        output.pop();
-        return val;
+          }
+            int val = output.top();
+            output.pop();
+          return val;
 
     }
     
     int peek() {
-        if(output.empty()){
-            return peekEl;
-        }
-        return output.top();
+           if( output.empty()){
+            return peek1;
+           }
+           return output.top();
     }
     
     bool empty() {
-        if(input.empty() && output.empty()){
+        if( input.empty() && output.empty()){
             return true;
         }
         return false;
-        
     }
 };
 
