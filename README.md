@@ -264,6 +264,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -278,6 +279,7 @@ Happy Coding! 🚀
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -294,4 +296,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
