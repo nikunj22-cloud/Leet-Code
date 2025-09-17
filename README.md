@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
@@ -277,6 +278,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
