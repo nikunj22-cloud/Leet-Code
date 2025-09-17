@@ -1,48 +1,49 @@
 class MyQueue {
-    private:
-        stack<int>st1;
-        stack<int>st2;
 public:
+  stack<int>input ;
+  stack<int>output;
     MyQueue() {
         
     }
-    
+    int peekEl = -1; 
+    //peekEl isliye rakha gaya hai:
+
+// jab tak output stack empty hai, queue ka front direct nahi milta.
+
+// uss case me peekEl store karke rakha gaya hai taaki O(1) me front element mil jaaye, bina stacks transfer kiye.
     void push(int x) {
-        st1.push(x);
+         if(input.empty()){
+            peekEl = x;
+         }      
+         input.push(x);
     }
+    
     int pop() {
-        if(st2.empty()){
-            while(!st1.empty()){ //move all element in to stack2
-                st2.push(st1.top());
-                st1.pop();
+        if(output.empty()){
+            while(!input.empty()){
+                output.push(input.top());
+                input.pop();
             }
         }
-            if(st2.empty()){
-                cout<<"queue is empty";
-                return -1;
-            }
-            int topElement = st2.top();
-            st2.pop();
-            return topElement;
-        
+         int val = output.top();
+        output.pop();
+        return val;
+
     }
-    //see the front elment of the queue
+    
     int peek() {
-        if(st2.empty()){
-        while(!st1.empty()){
-            st2.push(st1.top());
-            st1.pop();
-        } 
-    }  
-        if(st2.empty()){
-            cout<<"queue is empty";
-            return -1;
+        if(output.empty()){
+            return peekEl;
         }
-        return st2.top();
+        return output.top();
     }
     
     bool empty() {
-       return  st1.empty() && st2.empty();
+        if(input.empty() && output.empty()){
+            return true;
+        }
+        return false;
+        
     }
 };
 
