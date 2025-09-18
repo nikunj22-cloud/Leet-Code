@@ -5,14 +5,15 @@ public:
         vector<int> ans(n, -1);
         for (int i = n - 1; i >= 0; i--) {
             while (!st.empty() && heights[st.top()] >= heights[i]) {
-                st.pop();
+                st.pop(); // normal phle pop
             }
             if (!st.empty()) {
                 ans[i] = st.top(); // index of next smaller
             }
             st.push(i); // push index
         }
-        return ans;
+        return ans; 
+        //remeber hm index nikal rhe h ki next greater kon sa hoga or next smaller kon sa hoga
     }
 
     vector<int> prevsmaller(vector<int>& heights, int n) {
