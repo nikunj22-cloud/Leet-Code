@@ -39,8 +39,10 @@ public:
         int maxarea = 0;
         for (int i = 0; i < n; i++) {
             int l = heights[i];
-            if (next[i] == -1) next[i] = n; // if no smaller on right
+            // if no smaller on right
+             if (next[i] == -1) next[i] = n;  // yeh b nikalne se phle decide krna h ni toh error aayega
             int b = next[i] - prev[i] - 1;
+           
             int area = l * b;
             maxarea = max(area, maxarea);
         }
