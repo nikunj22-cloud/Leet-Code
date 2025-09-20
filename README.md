@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0518-coin-change-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
@@ -289,12 +290,14 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0937-online-stock-span) |
 ## Divide and Conquer
 |  |
