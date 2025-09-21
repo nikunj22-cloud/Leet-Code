@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
@@ -96,6 +97,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0031-next-permutation) |
@@ -314,4 +316,8 @@ Happy Coding! 🚀
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
