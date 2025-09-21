@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Greedy
