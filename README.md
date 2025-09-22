@@ -40,6 +40,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Happy Coding! 🚀
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/nikunj22-cloud/Leet-Code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
