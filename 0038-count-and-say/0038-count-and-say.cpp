@@ -13,7 +13,7 @@ public:
                  count++;
                  i++;
            }
-           result += to_string(count) + string( 1 , ch);
+           result += to_string(count) + string( 1 , ch); //char ko string m bdlne ka tarika 
         }
         return result;
     } 
