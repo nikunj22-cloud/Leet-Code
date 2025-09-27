@@ -289,6 +289,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0577-employee-bonus) |
+| [1153-product-sales-analysis-i](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1153-product-sales-analysis-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1801-average-time-of-process-per-machine) |
 ## Design
 |  |
