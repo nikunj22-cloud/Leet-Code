@@ -11,21 +11,32 @@
  */
 class Solution {
 public:
-     void Level( TreeNode* root , int level , vector<vector<int>>&res){
-        if(root==nullptr)return ;
-        if(res.size() <= level){
-            //agr koi res k size se b bda nikl gya h level toh usko res m push krdo
-            res.push_back({});
-        }
-        res[level].push_back(root->val);
-        Level( root->left , level+1, res);
-        Level(root->right , level+1 , res);
-
-     }
     vector<vector<int>> levelOrder(TreeNode* root) {
-        int level ;
-        vector<vector<int>>res;
-        Level( root , 0 , res);
-        return res;
+        vector<vector<int>>result;
+         if(root == NULL){
+            return result;
+         }
+        queue<TreeNode*>q;
+        q.push(root);
+         while( !q.empty()){
+            int level = q.size();
+             
+            vector<int>currentLevel;
+            for( int i = 0 ; i<level; i++){
+               TreeNode* node = q.front();
+                  q.pop();
+                 currentLevel.push_back(node->val);
+            
+            if(node->left)
+                q.push(node->left);
+            
+            if(node->right)
+                q.push(node->right);
+            
+         }
+        
+         result.push_back(currentLevel);
+         }
+       return result;
     }
 };
