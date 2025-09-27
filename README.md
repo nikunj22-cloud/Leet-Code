@@ -46,6 +46,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
@@ -62,6 +63,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
@@ -261,6 +263,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -268,6 +271,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 ## Sliding Window
