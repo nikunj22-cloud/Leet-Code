@@ -11,29 +11,28 @@
  */
 class Solution {
 public:
-    unordered_map<int, int> inorderMap; // To store index of inorder values
-    int preorderIndex = 0;
-
-    TreeNode* create(vector<int>& preorder, vector<int>& inorder, int start, int end) {
-        if (start > end) return NULL; // Base case: no elements left
-
-        int rootVal = preorder[preorderIndex++]; // Pick root from preorder
-        TreeNode* root = new TreeNode(rootVal);
-
-        int inorderIndex = inorderMap[rootVal]; // Find root in inorder
-
-        // Recursively build left and right subtrees
-        root->left = create(preorder, inorder, start, inorderIndex - 1);
-        root->right = create(preorder, inorder, inorderIndex + 1, end);
-
-        return root;
-    }
-
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        // Store inorder indices for O(1) lookup
-        for (int i = 0; i < inorder.size(); i++) {
-            inorderMap[inorder[i]] = i;
+   int search(  vector<int>& inorder , int left , int right ,int val){
+    for( int i = left ; i <= right ; i++ ){
+        if( inorder[i] == val){
+            return i;
         }
-        return create(preorder, inorder, 0, inorder.size() - 1);
     }
-};
+   return -1;
+}
+     TreeNode* helper( vector<int>&preorder , vector<int>&inorder , int left , int right , int& preidx){
+         if(  left > right){
+            return NULL;
+         }
+         TreeNode*root = new TreeNode(preorder[preidx]);
+          int inidx =   search( inorder ,left  ,right , preorder[preidx] );
+           preidx++;
+           root->left = helper( preorder , inorder , left , inidx-1 , preidx);
+           root->right = helper( preorder , inorder , inidx+1 , right , preidx);
+           return root;
+           
+     }
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+       int preidx = 0;
+        return helper( preorder , inorder , 0 , inorder.size()-1 , preidx );
+    }
+}; 
