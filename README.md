@@ -123,6 +123,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
@@ -181,6 +182,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
@@ -266,6 +268,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
@@ -275,6 +278,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 ## Sliding Window
@@ -330,6 +334,7 @@ Happy Coding! 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
