@@ -52,6 +52,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0210-course-schedule-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
@@ -280,6 +281,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
@@ -296,6 +298,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
