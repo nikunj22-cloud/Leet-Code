@@ -19,29 +19,16 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
-        if (!root)  // Agar root null hai to return null
-            return NULL;
-        
-        Node* leftmost = root;  // Har level ka leftmost node
-        
-        while (leftmost->left) {  // Jab tak left child hai
-            Node* head = leftmost;
-            
-            while (head) {  // Current level traverse karo
-                // Connection 1: Ek node ke bacchon ko jodo
-                head->left->next = head->right;
-                
-                // Connection 2: Agar next node hai to uske saath jodo
-                if (head->next) {
-                    head->right->next = head->next->left;
-                }
-                
-                head = head->next;  // Agle node pe jao
-            }
-            
-            leftmost = leftmost->left;  // Next level pe jao
+        if( ! root || !root->left || !root->right){
+            return root;
         }
-        
+        root->left->next = root->right;
+        if(root->next){
+            root->right->next = root->next->left;
+        }
+        connect(root->left);
+        connect(root->right);
+
         return root;
     }
 };
