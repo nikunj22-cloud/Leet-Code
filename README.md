@@ -147,6 +147,7 @@ Happy Coding! 🚀
 | [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -280,6 +281,7 @@ Happy Coding! 🚀
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Happy Coding! 🚀
 | [0543-diameter-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -338,6 +341,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -345,6 +349,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -373,4 +378,5 @@ Happy Coding! 🚀
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
