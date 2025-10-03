@@ -10,23 +10,24 @@
  * };
  */
 class Solution {
-public: 
-     TreeNode* BST( vector<int>& preorder , int min , int max , int&  index){
-        if(index >= preorder.size())return NULL;
-         int val = preorder[index];
-         if( val > max || val < min ) return NULL;
+public:
+    TreeNode* putinBST(TreeNode* root, int data) {
+        if (root == NULL) {
+            return new TreeNode(data); //yeh h yad krne k point ni toh all everything is correct
+        }
+        if (data > root->val) {
+            root->right = putinBST(root->right, data);
+        } else {
+            root->left = putinBST(root->left, data);
+        }
+        return root;
+    }
 
-         TreeNode* root = new TreeNode(val);
-        index++;
-
-         root->left = BST( preorder , min , val , index);
-         root->right = BST( preorder  , val , max , index );
-
-         return root;
-     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-
-        int index = 0;
-        return BST(preorder , INT_MIN ,INT_MAX , index);   
+        TreeNode* root = NULL;
+        for (int i = 0; i < preorder.size(); i++) {
+            root = putinBST(root, preorder[i]);
+        }
+        return root;
     }
 };
