@@ -10,22 +10,20 @@
  * };
  */
 class Solution {
-public: //we use inorder traversal because 1 smallest element will be from left then root then right 
-  int count = 0 , result = -1; 
-     void inorder( TreeNode* root , int k){
-     if(root==NULL|| count >= k)return;
-     inorder( root->left , k);
-     count++;
-     if( count == k){
-        result = root->val; //result ko assign krenge return root->val mt krna kyoki function void return krrrha h
-        return;
-     }
-     inorder( root->right , k);
-
-
-     }
+public:
+      void preorder(TreeNode* root , vector<int>&v){
+        if(root==NULL){
+            return;
+        }
+       
+        preorder(root->left , v);
+         v.push_back(root->val);
+        preorder(root->right , v);
+      }
     int kthSmallest(TreeNode* root, int k) {
-        inorder( root , k);
-         return result; //return result krna root nhi 
+      vector<int>v;
+      preorder(root  , v);
+      sort(v.begin() , v.end());
+      return v[k-1];
     }
 };
