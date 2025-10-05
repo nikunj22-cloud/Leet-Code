@@ -17,7 +17,7 @@ public:
         }
        
         preorder(root->left , v);
-         v.push_back(root->val);
+         v.push_back(root->val); //khene ka mtlb h ki koi sa b order traversal lgado sort value hee milti h or smallest chahiye isliye sort krna pdega
         preorder(root->right , v);
       }
     int kthSmallest(TreeNode* root, int k) {
