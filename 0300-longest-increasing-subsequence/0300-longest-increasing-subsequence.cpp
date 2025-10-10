@@ -1,29 +1,29 @@
 class Solution {
-public:
-    int n;
-    int t[2501][2501];
-    int lis(vector<int>& nums, int prev_idx, int curr_idx) {
-       if(curr_idx == n)
+public:  
+ int  t[2501][2501];
+    int solve( vector<int>&nums, int prev_ind , int curr_ind){
+        int n = nums.size();
+         if(curr_ind == n){
            return 0;
-        
-        if(prev_idx != -1 && t[prev_idx][curr_idx] != -1)
-            return t[prev_idx][curr_idx];
-        
-        int taken = 0;
-        if(prev_idx == -1 || nums[curr_idx] > nums[prev_idx])
-            taken = 1 + lis(nums, curr_idx, curr_idx+1);
-        
-        int not_taken = lis(nums, prev_idx, curr_idx+1);
-        
-        if(prev_idx != -1)
-            t[prev_idx][curr_idx] =  max(taken, not_taken);
-        
-        return max(taken, not_taken);
-            
+         }
+           if( prev_ind != -1 && t[prev_ind][curr_ind] != -1){
+            return t[prev_ind][curr_ind];
+           }
+            int taken = 0;
+            int notaken = 0;
+           if( prev_ind == -1 || nums[prev_ind] < nums[curr_ind]){
+                taken = 1+ solve( nums , curr_ind , curr_ind+1);
+           }
+           notaken =  solve( nums , prev_ind , curr_ind+1);
+           if( prev_ind != -1)
+            t[prev_ind][curr_ind] = max( taken , notaken);
+            return max( taken , notaken);
+           
+
     }
     int lengthOfLIS(vector<int>& nums) {
-        memset(t, -1, sizeof(t));
-        n = nums.size();
-        return lis(nums, -1, 0);
+          memset( t , -1 , sizeof(t));
+          int n = nums.size();
+          return solve( nums, -1 , 0);
     }
 };
