@@ -137,6 +137,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -177,6 +178,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
