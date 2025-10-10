@@ -27,3 +27,42 @@ public:
         return solve(word1, word2, 0, 0);
     }
 };
+//Case 1: i == m
+// if(i == m) return n - j;
+
+
+// We have reached the end of word1.
+
+// word1 has no characters left, but word2 may still have n - j characters remaining.
+
+// To convert word1 to word2, we need to insert all remaining characters of word2.
+
+// So, number of operations = n - j
+
+// ✅ Example:
+
+// word1 = "abc", word2 = "abcd", i = 3, j = 3
+
+
+// i == m = 3, j = 3
+
+// Remaining characters in word2 = n - j = 4 - 3 = 1 → we need 1 insert ('d')
+
+// Case 2: j == n
+// if(j == n) return m - i;
+
+
+// We have reached the end of word2.
+
+// word1 may still have m - i characters left.
+
+// To convert word1 to word2, we need to delete all remaining characters of word1.
+
+// So, number of operations = m - i
+
+// ✅ Example:
+
+// word1 = "abcd", word2 = "abc", i = 3, j = 3
+
+
+// j == n = 3, remaining characters in word1 = m - i = 4 - 3 = 1 → we need 1 delete ('d')
