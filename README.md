@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
@@ -175,6 +176,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
