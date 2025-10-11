@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [0213-house-robber-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
@@ -247,6 +248,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -280,6 +282,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 ## Tree
 |  |
@@ -327,6 +330,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
