@@ -125,6 +125,7 @@ Happy Coding! 🚀
 | [0040-combination-sum-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
@@ -224,6 +226,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Memoization
