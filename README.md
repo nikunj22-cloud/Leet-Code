@@ -228,6 +228,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -408,4 +409,8 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0783-search-in-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
