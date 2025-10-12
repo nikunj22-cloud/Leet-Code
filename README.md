@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
@@ -419,4 +421,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0054-spiral-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
