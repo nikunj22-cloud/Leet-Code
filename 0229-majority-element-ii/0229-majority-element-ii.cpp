@@ -1,39 +1,40 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
+        int count1 =0;
+        int maj1 = INT_MIN;
+        int maj2 = INT_MIN;
+        int count2 = 0;
         int n = nums.size();
-        int maj1 = INT_MIN, count1 = 0;
-        int maj2 = INT_MIN, count2 = 0;
-
-        // First pass: Find potential candidates
-        for (int num : nums) {
-            if (num == maj1) {
+        for( int i = 0 ;  i< nums.size() ; i++){
+            if( nums[i] == maj1){
                 count1++;
-            } else if (num == maj2) {
+            }
+            else if( nums[i] == maj2){
                 count2++;
-            } else if (count1 == 0) {
-                maj1 = num;
+            }
+            else if( count1 == 0){
+                maj1 = nums[i];
                 count1 = 1;
-            } else if (count2 == 0) {
-                maj2 = num;
+            }
+            else if( count2 == 0){
+                maj2 = nums[i];
                 count2 = 1;
-            } else {
+            }
+            else {
                 count1--;
                 count2--;
             }
         }
-
-        // Second pass: Verify counts
-        count1 = count2 = 0;
-        for (int num : nums) {
-            if (num == maj1) count1++;
-            else if (num == maj2) count2++;
+          count1 = count2 = 0;
+          vector<int>ans;
+        for( int i = 0 ; i< nums.size() ; i++){
+            if( nums[i] == maj1) count1++;
+            if( nums[i] == maj2) count2++;
         }
-
-        vector<int> result;
-        if (count1 > n / 3) result.push_back(maj1);
-        if (count2 > n / 3) result.push_back(maj2);
-
-        return result;
+            if( count1 > n/3) ans.push_back( maj1);
+            if( count2 > n/3) ans.push_back( maj2);
+        
+        return ans;
     }
 };
