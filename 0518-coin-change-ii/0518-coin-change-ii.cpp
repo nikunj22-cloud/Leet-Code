@@ -6,11 +6,32 @@ public:
     int solve(int i, vector<int>& coins, int amount) {
         
         if(amount == 0)
-            return t[i][amount] = 1;
+            return t[i][amount] = 1; //amount 0 bnane ka toh 1 hee method h 
         
         if(i == n || amount < 0)
             return 0;
-        
+         //\U0001f539 Ab condition samjho:
+// \U0001f449 if (i == n)
+
+// Matlab:
+
+// Hum last coin ke aage pahunch gaye hain,
+// aur ab aur coin bacha hi nahi hai choose karne ke liye.
+
+// \U0001f539 Example:
+
+// coins = [1,2,5],
+// n = 3
+
+// To valid indexes hain: 0, 1, 2
+// Agar recursion call me i = 3 ho gaya,
+// matlab hum saare coins use kar chuke — ab aage koi option nahi bacha.
+
+// Is case me:
+
+// Agar amount bhi 0 ho gaya → perfect, ek combination mil gaya ✅
+
+// Agar amount abhi bhi positive hai → paisa nahi bana sakte ❌
          if(t[i][amount] != -1)
             return t[i][amount];
         
