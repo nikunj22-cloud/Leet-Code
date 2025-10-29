@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -194,6 +195,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0583-delete-operation-for-two-strings) |
