@@ -1,22 +1,25 @@
 class Solution {
 public: 
-    int t[501][501];
-    int minin( string &s , int i , int j){
-        if( i>= j){
+   int t[501][501];
+ int solve(string &s1, string &s2, int i, int j) {
+       if (i == 0 || j == 0)
             return 0;
-        }
-        if( t[i][j] != -1){
+
+        if (t[i][j] != -1)
             return t[i][j];
-        }
-        if( s[i] == s[j]){
-            return t[i][j] = minin( s , i+1 , j-1);
-        }
-        return t[i][j] = 1 + min(minin(s , i+1 , j) , minin(s , i ,j-1));
+
+        if (s1[i-1] == s2[j-1])
+            return t[i][j] = 1 + solve(s1, s2, i-1, j-1);
+
+        return t[i][j] = max(solve(s1, s2, i - 1, j), solve(s1, s2, i, j - 1));
     }
     int minInsertions(string s) {
-        int n = s.length();
-         memset( t , -1 , sizeof(t));
-         return minin( s , 0 ,n-1);
-        
+        string s2 = s;
+            reverse( s2.begin() , s2.end());
+          int m = s.length();
+          int n = s2.length();
+          memset( t , -1 , sizeof(t));
+          return m - solve( s , s2 , m ,n);
+    
     }
 };
