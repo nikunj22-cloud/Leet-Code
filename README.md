@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0014-longest-common-prefix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0131-palindrome-partitioning) |
