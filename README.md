@@ -134,6 +134,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -172,6 +173,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0542-01-matrix](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
@@ -210,6 +212,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
