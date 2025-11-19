@@ -5,7 +5,7 @@ public:
         int i = 0;
         int j = 0;
         int k = n-1;
-        while(  j <= k){
+        while(  j <= k){ //remember
             if( nums[j] == 1){
                 j++;
             }
@@ -15,7 +15,7 @@ public:
                 i++;
             }
             else{
-                swap( nums[j] , nums[k]);
+                swap( nums[j] , nums[k]);//remember
                 k--;
             }
 
