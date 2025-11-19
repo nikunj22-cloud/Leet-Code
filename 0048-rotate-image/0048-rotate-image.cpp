@@ -8,7 +8,7 @@ public:
                 swap( matrix[i][j] , matrix[j][i]);
             }
           }
-          for( int i = 0 ; i< m ; i++){
+          for( int i = 0 ; i< m ; i++){ //row wise reverse 
             reverse( matrix[i].begin() , matrix[i].end());
           }
     }
