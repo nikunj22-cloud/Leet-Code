@@ -7,7 +7,7 @@ public:
             if( count == 0){
                 maj = nums[i];
             }
-           if(nums[i] = maj){
+           if(nums[i] == maj){
             count++;
            }
            else{
