@@ -16,7 +16,7 @@ public:
             }
             else{
                 swap( nums[j] , nums[k]);//remember
-                k--;
+                k--; // i toh shurur m hee rhega or k last m hee rhega so isliye usko ++ or -- krrhe h  
             }
 
         }
