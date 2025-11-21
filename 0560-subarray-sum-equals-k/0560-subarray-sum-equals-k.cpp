@@ -9,7 +9,7 @@ public:
           
         for( int i = 0 ; i<nums.size() ; i++){
             sum += nums[i];
-            int rem = sum - k;
+            int rem = sum - k; //remember sum-k
 
             if( mp.find(rem) != mp.end()) {
                 count += mp[rem];
