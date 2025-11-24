@@ -156,6 +156,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0494-target-sum) |
@@ -223,6 +224,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -288,6 +290,7 @@ Happy Coding! 🚀
 | [0215-kth-largest-element-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0295-find-median-from-data-stream) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
