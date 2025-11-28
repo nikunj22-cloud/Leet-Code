@@ -166,6 +166,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0854-making-a-large-island](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0854-making-a-large-island) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/nikunj22-cloud/Leet-Code/tree/master/1073-number-of-enclaves) |
@@ -227,6 +228,7 @@ Happy Coding! 🚀
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
@@ -448,4 +450,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/nikunj22-cloud/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
